@@ -129,6 +129,11 @@ http://tna6.tulix.tv/live/fe95de9d770ceaef2028fb23c365d140/5e90a129/vchannel6.m3
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/vietmedia.jpg" group-title="HAINGOAI”,Viet Media
 https://livestream.com/accounts/27740027/events/8840647/player?width=640&height=360&autoPlay=true&mute=false\
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title=“USA”,CNN (US) (Opt-1)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title=“USA”,CNN (US) (Opt-2)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/kron4.jpg" group-title="USA",KRON4
 https://dcs-live.apis.anvato.net/server/play/5AwdN6JC4m6LT42j/manifest.m3u8?encp=wGRAUXTQyRIbXR_308bGZQ:m2y04IHkR-EcdoroCg_mKOclitkWPadWVSJEN1BdDIK_P2DDNeVXTdbawxn2iIxaKKl4UMm4f3AiJEN6laeVM0IcL9VgeXP6joFxJJc1SENLsaLEVF4SrOjCahhSCH9pXd9lavhaBNXOQAG2sA9TXrxj6aEIP6MKwzOaQbWwrmblsW8N_IP7icB2_92qQWn0hPPQK-j1z_S_QK_aGNjs-TIBN6lRIX3ByPwyaHr1D54OlOfBE_ivMTxxi5NYBManPu8DlIY1P7Qa5yJcwLhUl2VvLxiIQiAiIWyPoft87jlwCqXe-o4lmDcv5COaAbXmiZ2nH2naQiAAHyRqQnwfemG7rPvbizFnsF0DM291WeYoiaV69cuEJwMnpn--FkhmBBd3sHuEy_vN62fhsKNwlZ0-0CylS-LO4b6dwjjZbTMoVUN0abHOj7hgimwFNInFG3-8M-e7Hr4AjIKcyR3UlpcLi5puEoV2uXemZn8bfLozQs2ZrMDjWOvZKb31J5fFqLEt5pSFYiCOTg-gJxgL2nQVe6hrh_o_PDF7v9-6LsSBoEk5zYmLBYf3QgmdBIdmk90BuoZocw6DpPmlcUKJP_K0WQ7kV2EnCBazr2BMlOirxEVWFuXTehKu3S_HMvKU&anvtrid=9a8bb27cc7cdde145c66a160a4be365e&anvauth=tb=0~te=1589044707~sgn=3d277ff332d82d2c20c0a72b5de15833eb4957f1c8210d8aefabc79a09974f6a&t=1586452707
 #EXTINF:-1 group-title="USA",KSWB Fox 5 SD Loop
@@ -171,18 +176,6 @@ http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
 http://api.new.livestream.com/accounts/1864610/events/1649849/live.m3u8
 #EXTINF:0 group-title="USA", tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg" group-title="USA",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="INFO",* Fluxus Cinema English
-http://149.56.23.7:20082/stream
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="INFO",+ Like Us!
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rR1Lgwg.png" group-title="INFO",> Free Entertainment
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="INFO",= OCT-30-2018
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1HqD2qdlDL._RI_.jpg" group-title="MOVIES",12 Strong (2018) (Geo)
 https://bobmovies.net/hl/12.Strong.2018hd.m3u8
