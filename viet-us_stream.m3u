@@ -105,13 +105,12 @@ http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png" tvg-country="VN" tvg-url="" group-title="VIETNAM",VTVcab11
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/LSTV.jpg" group-title=“HAI NGOAI”,Little Saigon TV
 https://livestream.com/accounts/21388423/events/7992704/player?width=640&height=360&autoPlay=true&mute=false%5C
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SBTN.png" group-title="HAI NGOAI”,SBTN
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w848886703.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SET.jpg" group-title="HAI NGOAI”,SET Saigon Entertainment TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SET.jpg" group-title="HAINGOAI”,SET Saigon Entertainment TV (ALT)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SET.jpg" group-title="HAI NGOAI”,SET Saigon Entertainment TV (ALT)
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w848886703.m3u8
 http://tna6.tulix.tv/live/843b4c13e1bb936c335794fa2f0e9b94/5e909da2/vchannel16.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/saigontv.jpg" group-title="HAI NGOAI”,Saigon TV
