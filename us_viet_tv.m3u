@@ -11492,7 +11492,8 @@ http://showflix.org:5890/movie/maria/1234/31691.mp4
 http://showflix.org:5890/movie/maria/1234/31692.mp4
 #EXTINF:-1 group-title="MOVIES",The Man Who Feels No Pain 2019 1080á´¾
 http://showflix.org:5890/movie/maria/1234/31693.mp4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Tân Ỷ Thiên Đồ Long Ký 2008
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Tân Ỷ Thiên Đồ Long Ký 2008
 https://ws.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Tân Ỷ Thiên Đồ Long Ký 2019
 https://ws.flv.nimo.tv/live/su1599512427617rae4f86972500969d24b8d4bc88ee9b7a_high.flv
