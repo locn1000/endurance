@@ -113,6 +113,8 @@ http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/LSTV.jpg" group-title=“HAI NGOAI”,Little Saigon TV
 https://livestream.com/accounts/21388423/events/7992704/player?width=640&height=360&autoPlay=true&mute=false%5C
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/LSTV.jpg" group-title=“HAI NGOAI”,Little Saigon TV (ALT)
+https://api.new.livestream.com/accounts/21388423/events/7992704/videos/202847963.secure.m3u8?token=5e90adf7_5895c2436e138f68ce4d70463ba78dcedd0fdccd
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SBTN.png" group-title="HAI NGOAI”,SBTN
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w848886703.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SET.jpg" group-title="HAI NGOAI”,SET Saigon Entertainment TV
@@ -121,12 +123,22 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w848886703.m3u8
 http://tna6.tulix.tv/live/843b4c13e1bb936c335794fa2f0e9b94/5e909da2/vchannel16.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/saigontv.jpg" group-title="HAI NGOAI”,Saigon TV
 http://dvr1tna.tulix.tv/live/f64083084bbf95f94dec6e8240e30284/5e909a42/vchannel22.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/saigontv.jpg" group-title="HAI NGOAI”,Saigon TV (ALT)
+http://dvr1tna.tulix.tv/live/5071f256b9bae9dde96135801d8bb125/5e9200d3/vchannel22.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/viettoday.png" group-title="HAI NGOAI”,Viet Today
 http://dvr1tna.tulix.tv/live/273dd58a695ae07e4076d581dc7cf360/5e909cce/vchannel1.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SBTN.png" group-title="HAI NGOAI”,Viet Today (ALT)
+http://dvr1tna.tulix.tv/live/80507a54290109e07a1579fc6be02d08/5e91fcf7/vchannel1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/vietsky.jpg" group-title="HAI NGOAI”,Viet Sky
 http://tna6.tulix.tv/live/6dcc2a0c8d7df45a0469887077f20e7f/5e909f15/vchannel13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/vietsky.jpg" group-title="HAI NGOAI”,Viet Sky (ALT)
+http://tna6.tulix.tv/live/d1682a6f438157d47741083dd2b66752/5e92020b/vchannel13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SCTV.png” group-title="HAI NGOAI”,VSTV
+http://www.vietchannels.com/watch2.php?id=427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SCTV.png” group-title="HAI NGOAI”,SCTV
 http://tna6.tulix.tv/live/19c43a4cc0c07293b5eba0baafa4fdfb/5e909fb5/vchannel7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/SCTV.png” group-title="HAI NGOAI”,SCTV (ALT)
+http://tna6.tulix.tv/live/87d3ffee42f6e86362710df674eb3f98/5e920326/vchannel7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/sctv7.jpg” group-title="HAI NGOAI”,SCTV Show
 http://tna6.tulix.tv/live/121c8a0c8864cf81d19c5b26f473603e/5e90a076/vchannel9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/echannel.png” group-title="HAI NGOAI”,E Channel
