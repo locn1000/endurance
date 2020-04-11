@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/TTXVN.jpg" group-title="VIETNAM",Thong Tan Xa VN
 http://118.107.114.5:1935/tvnet/smil:ttxvn.smil/playlist.m3u8?vtcdigicomstarttime=1586379018&vtcdigicomendtime=1586465418&vtcdigicomhash=j2KduoABlvRF2Ok3jQSVDOM7x2VKWF5QxYeBBUhyDrs=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/TTXVN.jpg" group-title="VIETNAM",Thong Tan Xa VN (ALT)
+http://118.107.114.5:1935/tvnet/smil:ttxvn.smil/playlist.m3u8?vtcdigicomstarttime=1586636654&vtcdigicomendtime=1586723054&vtcdigicomhash=sIq-ifRu8ZRo7r48w04hAmk4T0bINdtIge7Y0Y3hVho=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/VTV1.png" group-title=“VIETNAM”,VTV1
 http://118.107.114.5:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1586379342&vtcdigicomendtime=1586465742&vtcdigicomhash=xI9natzYMp5E-rwsVMToOQhEHcBYp3pYqtEtm2Ctbx0=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/VTV1.png" group-title=“VIETNAM”,VTV1 (alt)
