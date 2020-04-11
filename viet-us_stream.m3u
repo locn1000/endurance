@@ -15,6 +15,8 @@ http://htv.live.vnroute.com/vtv3hd.720p.catchup.tms/index.m3u8?t=hh9RkB8xMSDATti
 http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1586384079&vtcdigicomendtime=1586470479&vtcdigicomhash=N1Q0ICxuh3jD6FM6qDbKJUzuvRaxRb3_kxhGND2_TJg=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="http://img.hplus.com.vn/1180x665/banner/2018/09/11/685332-vtv6.png" group-title=“VIETNAM”,VTV6
 http://htv.live.vnroute.com/vtv6hd.720p.tms/index.m3u8?t=8jriPIIZzngPQJAdr1FsOl8vAdGPccZ1vXJsEgR1tcIykCQgYF3KV5hnxCdt6LlIgvF5J+UCRoh5YaJzszy5az1iNvt/6C3zis5LbrYAPvE=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="http://img.hplus.com.vn/1180x665/banner/2018/09/11/685332-vtv6.png" group-title=“VIETNAM”,VTV6 (ALT)
+http://htv.live.vnroute.com/vtv6hd.720p.tms/index.m3u8?t=vQzcy4ij96af/mCLOJExt1G5eVC+xcBaJtcU/UGAvolQA//n+HpKDWzLENVkY3yhJztTK85E54z8mbOC/Mco9BuCZ0NQ2E2ZpvBykHsXQKc=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/VTC1.jpg" group-title=“VIETNAM”,VTC1
 http://118.107.114.5:1935/tvnet/smil:vtc1.smil/playlist.m3u8?vtcdigicomstarttime=1586380078&vtcdigicomendtime=1586466478&vtcdigicomhash=s9cWFekY6gLxGJhLKsaIcBcUFBGWbFNS6ZL9CWHRoek=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/VTC10.jpg" group-title=“VIETNAM”,VTC10
