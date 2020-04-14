@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/TTXVN.jpg" group-title="VIETNAM",Thong Tan Xa VN
-http://118.107.114.5:1935/tvnet/smil:ttxvn.smil/playlist.m3u8?vtcdigicomstarttime=1586379018&vtcdigicomendtime=1586465418&vtcdigicomhash=j2KduoABlvRF2Ok3jQSVDOM7x2VKWF5QxYeBBUhyDrs=
+http://live.vnanet.vn/720P/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/TTXVN.jpg" group-title="VIETNAM",Thong Tan Xa VN (ALT)
 http://118.107.114.5:1935/tvnet/smil:ttxvn.smil/playlist.m3u8?vtcdigicomstarttime=1586636654&vtcdigicomendtime=1586723054&vtcdigicomhash=sIq-ifRu8ZRo7r48w04hAmk4T0bINdtIge7Y0Y3hVho=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-country="VN" tvg-url="" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/VTV1.png" group-title=“VIETNAM”,VTV1
@@ -175,6 +175,8 @@ http://dvr1tna.tulix.tv/live/9f6127e4a97cd46afd6284ac6ceb3383/5e94fade/vchannel3
 http://tna6.tulix.tv/live/8f327e5c1fdf3f3dd1d72b02270f9313/5e94fb4e/vchannel7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/echannel.png" tvg-url="" group-title="HAI NGOAI",E Channel
 http://tna6.tulix.tv/live/fe95de9d770ceaef2028fb23c365d140/5e90a129/vchannel6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/echannel.png" tvg-url="" group-title="HAI NGOAI",E Channel (ALT)
+http://cdn1.tvmienphi.tv/live/vtvcab5/index.m3u8?token=2bpvQiMyaBKaP4BBLZdaJg&e=1586828900
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/VBS.jpg" tvg-url="" group-title="HAI NGOAI",VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://raw.githubusercontent.com/locn1000/endurance/master/vietmedia.jpg" tvg-url="" group-title="HAI NGOAI",Viet Media
@@ -11542,6 +11544,22 @@ http://showflix.org:5890/movie/maria/1234/31692.mp4
 #EXTINF:-1 group-title="MOVIES",The Man Who Feels No Pain 2019 1080á´¾
 http://showflix.org:5890/movie/maria/1234/31693.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Mr. Beans
+https://tx.flv.nimo.tv/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea_mid.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",RED HBO Phim Chau A
+http://cdn1.tvmienphi.tv/live/redhbo/index.m3u8?token=_gmJ4nNBXG5KgAeBVSlKgg&e=1586830210
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",MAX HBO
+http://cdn1.tvmienphi.tv/live/maxhbo/index.m3u8?token=bQqQTu5Zs54mNnzM2qiTdQ&e=1586830896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",KBS Han Quoc
+http://cdn1.tvmienphi.tv/live/kbs/index.m3u8?token=fZ85H0n7NnFnwfA4WoWzxg&e=1586830388
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",HBO
+http://cdn1.tvmienphi.tv/live/kbs/index.m3u8?token=fZ85H0n7NnFnwfA4WoWzxg&e=1586830388
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",FOX Movies
+http://cdn1.tvmienphi.tv/live/foxmovies/index.m3u8?token=Iboddf2MpYPgAUoKbG21Ow&e=1586830587
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Disney Channel
+http://cdn1.tvmienphi.tv/live/disney/index.m3u8?token=mRGiCDhko6fZC0Q9J0P4Eg&e=1586830735
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",AXN Giai Tri Quoc Te
+http://cdn1.tvmienphi.tv/live/axn/index.m3u8?token=OPQEyBg3vj94rDvNa3ND-A&e=1586830835
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Tân Ỷ Thiên Đồ Long Ký 2008
 https://ws.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/71/Google_Play_Movies_%26_TV_logo.png" group-title="Phim TH",Tân Ỷ Thiên Đồ Long Ký 2019
